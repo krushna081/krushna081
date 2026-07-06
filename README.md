@@ -1,127 +1,159 @@
-# Welcome to my GitHub! 👋
+<div align="center">
 
-## About me :mortar_board:
-Hi, I’m **Krushna Jadhav** (krushna081), a passionate **Front-End Developer** and technology enthusiast. From an early stage in my academic journey, I developed a strong interest in computers and web technologies, which motivated me to continuously explore and build real-world projects.  
+# Hi, I'm Krushna Jadhav 👋
 
-I strongly believe that **learning never stops**, and practical experience is the best teacher. I enjoy transforming ideas into clean, responsive, and user-friendly interfaces while continuously upgrading my technical skill set.
+### 🛡️ Cybersecurity Researcher · 💻 Full-Stack Developer · 🎓 Cyber & Digital Science Student
 
-## What I know :computer:
-- **Programming & Scripting**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="33%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-					</td>
-					<td width="33%" align="center">
-						<span><strong>C</strong></span><br/>
-						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-					</td>
-					<td width="33%" align="center">
-						<span><strong>JavaScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
+*Building secure, impactful solutions — one system at a time.*
 
-- **Frontend Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td align="center">
-						<span><strong>HTML</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-					</td>
-					<td align="center">
-						<span><strong>CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-					</td>
-					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
+[![Portfolio](https://img.shields.io/badge/Portfolio-krushna081.online-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://krushna081.online/)
+[![Email](https://img.shields.io/badge/Email-contact%40krushna081.online-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@krushna081.online)
+[![Status](https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge)](https://krushna081.online/)
 
-- **Tools & Platforms**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td align="center">
-						<span><strong>VS Code</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-					</td>
-					<td align="center">
-						<span><strong>Git & GitHub</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-
-## What I’m doing now :rocket:
-- Working as a **Front-End Developer Intern**
-- Building and improving personal projects
-- Updating my portfolio: **https://krushna081.online**
-
-## What I want to do next :thinking:
-- Build impactful and meaningful web applications  
-- Strengthen my foundation in full-stack development  
-- Keep learning and growing in the tech industry  
-
-## Reach me :mailbox:
-[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://krushna081.online)
-<div align="left">
-  <!-- <!-- GitHub
-  <a href="https://github.com/krushna081" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg"
-      width="52" height="40" alt="github logo" />
-  </a> -->
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/krushna-jadhav081" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52" height="40" alt="linkedin logo" />
-  </a>
-
-  <!-- Portfolio Website -->
-  <a href="https://krushna081.online" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg"
-      width="52" height="40" alt="website logo" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-      width="52" height="40" alt="instagram logo" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="52" height="40" alt="gmail logo" />
-  </a>
-
-  <!-- CodePen (optional) -->
-  <a href="https://codepen.io/YOUR_CODEPEN_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg"
-      width="52" height="40" alt="codepen logo" />
-  </a>
 </div>
 
+---
 
-### GitHub Stats :chart_with_upwards_trend:
-![Krushna's stats](https://github-readme-stats.vercel.app/api?username=krushna081&show_icons=true&count_private=true&hide=stars)
+## 🧠 About Me
 
-Thanks for visiting my profile!
+I'm a **Cyber & Digital Science** student specializing in cybersecurity, research, and software development. My passion lies in understanding how complex systems break — and engineering robust defenses to protect them.
 
-![](https://komarev.com/ghpvc/?username=krushna081&color=blueviolet)
+I bridge the gap between emerging security threats and scalable software solutions, with a research mindset and a hands-on approach to problem-solving. Whether it's ethical hacking, network defense, or building secure applications from the ground up — I'm driven by continuous learning and real-world impact.
+
+- 📍 **Location:** Maharashtra, India
+- 🎓 **Studying:** BSc in Cyber & Digital Science, K.K. Wagh (Apr 2025 – Jul 2028)
+- 🔭 **Currently building:** Secure applications & security automation tools
+- 🔬 **Currently researching:** Dark Web security analysis
+- 💬 **Ask me about:** Network Security, Cryptography, Vulnerability Assessment, Ethical Hacking
+- 📄 **Resume / Full Portfolio:** [krushna081.online](https://krushna081.online/)
+
+### 📊 Quick Stats
+| Projects Built | Dev Experience | PRs & Contributions | Research |
+|:---:|:---:|:---:|:---:|
+| 6+ | 1y+ | 15+ | 4 |
+
+---
+
+## 🗃️ Previous Account
+
+Before this account, I built and shared most of my open-source work, experiments, and early projects here:
+
+[![Old Account](https://img.shields.io/badge/Older%20Work-welcome--your--future-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/welcome-your-future)
+
+Projects have since been migrated/continued under **this** account, but the original history and open-source contributions live there — feel free to check it out too.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [End-to-End Encrypted Secure Messaging Platform](https://krushna081.online/)
+**Problem:** Traditional messaging systems expose sensitive communication data to servers and third-party interception risks.
+**Solution:** A secure real-time messaging platform with true end-to-end encryption, client-side cryptographic operations, and a zero-knowledge architecture.
+**Tech:** `AES-256-GCM` `Web Crypto API` `JWT` `Socket.io` `MongoDB`
+**Impact:** Encrypted message transmission, secure authentication, self-destructing messages, and protection against unauthorized data access.
+
+### 💬 Full-Stack Secure Chat Application
+Real-time chat app built to learn modern full-stack development and production deployment.
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Vercel` `Render` `JWT`
+**Highlights:** MongoDB Atlas integration, authentication + email services, REST API testing, CORS handling, full production deployment.
+
+### 🗄️ Secure File Storage with AES-256 Encryption
+**Problem:** Cloud storage often lacks client-side encryption controls.
+**Solution:** A file-sharing platform that encrypts files locally *before* upload.
+**Tech:** `React` `Node.js` `WebCrypto API`
+**Impact:** End-to-end data confidentiality, preventing unauthorized server-side access.
+
+### 🕵️ Automated Vulnerability Scanner
+**Problem:** Manual security auditing is time-consuming.
+**Solution:** An automated script suite scanning web apps for common OWASP Top 10 vulnerabilities.
+**Tech:** `Python` `Bash` `OWASP ZAP API`
+**Impact:** Reduced routine reconnaissance time by **60%** for standard security assessments.
+
+### 🔗 Decentralized Identity Verification
+**Problem:** Centralized identity providers are a single point of failure.
+**Solution:** A Proof-of-Concept leveraging blockchain for distributed identity verification.
+**Tech:** `Solidity` `Ethereum` `React`
+**Impact:** Demonstrated a tamper-proof authentication model mitigating massive data-breach risks.
+
+### 💻 Portfolio Developer Terminal
+**Problem:** Standard portfolios lack technical interactivity.
+**Solution:** A responsive, command-line interface mimicking a real developer environment, in-browser.
+**Tech:** `React.js` `Tailwind CSS`
+**Impact:** Boosted user engagement while showcasing core web development skills.
+
+> 🔍 More projects, live demos, and source code: **[krushna081.online](https://krushna081.online/)**
+
+---
+
+## 🔬 Research
+
+| Research | Status | Year |
+|---|:---:|:---:|
+| Dark Web Security Analysis | 🟡 In Progress | 2026 |
+| End-to-End Encryption Protocols | 🟢 Published | 2025 |
+| Decentralized Identity Systems | 🔵 Prototype | 2024 |
+| Vulnerability Research & Automation | 🟠 Ongoing | 2024 |
+
+**Research interests:** Network Security, Cryptography, Dark Web Analysis, Vulnerability Assessment, Ethical Hacking methodologies.
+
+---
+
+## 🧰 Skills — Cyber Command Center
+
+**🛡️ Cybersecurity**
+`Network Security` `Ethical Hacking` `Cryptography` `Vulnerability Assessment` `Incident Response`
+
+**⚡ Programming**
+`Python` `JavaScript` `Bash` `Solidity`
+
+**🌐 Web Development**
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `WordPress` `Socket.io`
+
+**🧠 AI / ML**
+`Exploring applied AI/ML for security use cases`
+
+**🔧 Tools**
+`OWASP ZAP` `Web Crypto API` `JWT` `Git/GitHub` `Vercel` `Render`
+
+---
+
+## 💼 Experience & Journey
+
+**Web Development Intern** — *Kumudini Infotech (Government of India Project)*
+`Sep 2025 – Present`
+- Worked on responsive web development using HTML, CSS, JavaScript, React.js, Node.js, and WordPress
+- Learned SQL database management, Google Forms data handling, and backend integration
+- Collaborated in team-based development; improved website performance and UX
+
+**Freelance Security & Web Developer** — *Self-employed*
+`Jan 2024 – Present`
+
+**Independent Security Researcher** — *Bug Bounty Platforms*
+`2023 – Present`
+
+**🏆 Hackathon Participant** — `Dec 2024`
+
+**🏆 Upcoming Research Paper on Dark Web** — `2026`
+
+### 🎓 Education
+- **BSc in Cyber & Digital Science** — K.K. Wagh *(Apr 2025 – Jul 2028, CGPA: 7.00)*
+- **Higher Secondary (Science)** — Progressive Public School and Junior College *(2023 – 2025, 64%)*
+- **5th – 10th** — Purushotam English School *(2018 – 2023)*
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm open to:
+`🧑‍💻 Freelance web & security projects` · `🎓 Internships` · `🌐 Open source contributions` · `🏆 Hackathons`
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-krushna081.online-000000?style=flat-square&logo=vercel&logoColor=white)](https://krushna081.online/)
+[![Email](https://img.shields.io/badge/Email-contact%40krushna081.online-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@krushna081.online)
+[![GitHub](https://img.shields.io/badge/GitHub-@krushna081-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krushna081)
+[![Older Work](https://img.shields.io/badge/Older%20Work-welcome--your--future-6e5494?style=flat-square&logo=github&logoColor=white)](https://github.com/welcome-your-future)
+
+<div align="center">
+
+*"Understanding how systems break — to build the defenses that hold."*
+
+</div>
