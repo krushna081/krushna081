@@ -50,13 +50,13 @@ I bridge the gap between emerging security threats and scalable software solutio
 
 ---
 
-## 🗃️ Previous Account
+## 🗂️ Secondary Account — Client & Freelance Work
 
-Before this account, I built and shared most of my open-source work, experiments, and early projects here:
+This is my **secondary GitHub account** — not a previous account. I use it for client projects and freelance work, keeping delivery work separate from my personal open-source projects.
 
-[![Old Account](https://img.shields.io/badge/Older%20Work-welcome--your--future-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/welcome-your-future)
+[![Client & Freelance Work](https://img.shields.io/badge/Client%20%26%20Freelance%20Work-welcome--your--future-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/welcome-your-future)
 
-Projects have since been migrated/continued under **this** account, but the original history and open-source contributions live there — feel free to check it out too.
+My personal projects, experiments, and open-source contributions live on **this** account; the work I build for clients lives there.
 
 ---
 
@@ -166,7 +166,7 @@ I'm open to:
 [![Portfolio](https://img.shields.io/badge/Portfolio-krushna081.online-000000?style=flat-square&logo=vercel&logoColor=white)](https://krushna081.online/)
 [![Email](https://img.shields.io/badge/Email-contact%40krushna081.online-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@krushna081.online)
 [![GitHub](https://img.shields.io/badge/GitHub-@krushna081-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krushna081)
-[![Older Work](https://img.shields.io/badge/Older%20Work-welcome--your--future-6e5494?style=flat-square&logo=github&logoColor=white)](https://github.com/welcome-your-future)
+[![Client & Freelance Work](https://img.shields.io/badge/Client%20%26%20Freelance%20Work-welcome--your--future-6e5494?style=flat-square&logo=github&logoColor=white)](https://github.com/welcome-your-future)
 
 <div align="center">
 
