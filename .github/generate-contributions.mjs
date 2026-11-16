@@ -12,7 +12,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 
 const LOGIN = process.env.GITHUB_LOGIN?.trim() || "krushna081";
-const OUTPUT = resolve(process.env.OUTPUT_PATH || "assets/contributions.svg");
+const OUTPUT = resolve(process.env.OUTPUT_PATH || "contributions.svg");
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
 
 const API_URL = "https://api.github.com/graphql";

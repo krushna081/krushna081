@@ -9,7 +9,7 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/contributions.yml"
-      - "scripts/generate-contributions.mjs"
+      - ".github/generate-contributions.mjs"
 
 permissions:
   contents: write
@@ -35,13 +35,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_LOGIN: krushna081
-        run: node scripts/generate-contributions.mjs
+        run: node .github/generate-contributions.mjs
 
       # The generator only writes after a successful API response. If it fails,
       # this commit step is skipped and the last committed SVG stays online.
       - name: Commit the refreshed graph
         run: |
-          git add assets/contributions.svg
+          git add contributions.svg
           if git diff --cached --quiet; then
             echo "Contribution graph is unchanged."
             exit 0

@@ -41,10 +41,8 @@ I bridge the gap between emerging security threats and scalable software solutio
 <div align="center">
 
 <a href="https://github.com/krushna081" title="View krushna081's live contribution calendar on GitHub">
-  <img src="assets/contributions.svg" alt="GitHub contribution calendar for krushna081 showing the last 12 months, with total contributions, current streak, and longest streak" width="100%" />
+  <img src="contributions.svg" alt="GitHub contribution calendar for krushna081 showing the last 12 months, with total contributions, current streak, and longest streak" width="100%" />
 </a>
-
-<sub>Auto-refreshed daily by GitHub Actions · <a href="https://github.com/krushna081">live calendar on GitHub</a> · falls back to the last successful snapshot</sub>
 
 </div>
 
