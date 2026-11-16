@@ -2,7 +2,9 @@
 
 # Hi, I'm Krushna Jadhav 👋
 
-### 🛡️ Cybersecurity Researcher · 💻 Full-Stack Developer · 🎓 Cyber & Digital Science Student
+<a href="https://github.com/krushna081" title="Krushna Jadhav on GitHub">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=57D68D&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=60&amp;lines=Cybersecurity+Researcher;Full-Stack+Developer;Ethical+Hacking+Enthusiast;Security+Automation+Developer;Cyber+%26+Digital+Science+Student" alt="Typing animation: Cybersecurity Researcher, Full-Stack Developer, Ethical Hacking Enthusiast, Security Automation Developer, Cyber &amp; Digital Science Student" width="640" />
+</a>
 
 *Building secure, impactful solutions — one system at a time.*
 
@@ -31,6 +33,20 @@ I bridge the gap between emerging security threats and scalable software solutio
 | Projects Built | Dev Experience | PRs & Contributions | Research |
 |:---:|:---:|:---:|:---:|
 | 6+ | 1y+ | 15+ | 4 |
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/krushna081" title="View krushna081's live contribution calendar on GitHub">
+  <img src="assets/contributions.svg" alt="GitHub contribution calendar for krushna081 showing the last 12 months, with total contributions, current streak, and longest streak" width="100%" />
+</a>
+
+<sub>Auto-refreshed daily by GitHub Actions · <a href="https://github.com/krushna081">live calendar on GitHub</a> · falls back to the last successful snapshot</sub>
+
+</div>
 
 ---
 

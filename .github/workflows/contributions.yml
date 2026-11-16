@@ -1,0 +1,52 @@
+name: Update contribution graph
+
+on:
+  schedule:
+    # Daily at 02:17 UTC. Scheduled jobs can be delayed by GitHub.
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/contributions.yml"
+      - "scripts/generate-contributions.mjs"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate graph from GitHub's GraphQL API
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: krushna081
+        run: node scripts/generate-contributions.mjs
+
+      # The generator only writes after a successful API response. If it fails,
+      # this commit step is skipped and the last committed SVG stays online.
+      - name: Commit the refreshed graph
+        run: |
+          git add assets/contributions.svg
+          if git diff --cached --quiet; then
+            echo "Contribution graph is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh contribution graph"
+          git push
